@@ -79,7 +79,7 @@ st.write(
 
 
 #Question 3
-st.header("Question 3: Ratings Over Time")
+st.header("Ratings Over Time")
 
 #Calculate the average rating for each movie release year
 year_ratings=(
