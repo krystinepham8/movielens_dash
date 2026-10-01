@@ -5,7 +5,7 @@ import plotly.express as px
 st.title("MovieLens Movie Ratings Dashboard")
 st.write("Welcome to my MovieLens Dashboard!")
 
-df=pd.read_csv('movie_Ratings.csv')
+df=pd.read_csv('movie_ratings.csv')
 
 #Question 1
 st.header("Genre Breakdown")
